@@ -1,0 +1,17 @@
+{
+  "name": "genpark-diffie-hellman-ratchet-forward-secrecy-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Double Ratchet Key Derivation & Forward-Secret End-to-End Secure Channel Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cryptography",
+    "double-ratchet",
+    "forward-secrecy",
+    "encrypted-channel"
+  ]
+}
